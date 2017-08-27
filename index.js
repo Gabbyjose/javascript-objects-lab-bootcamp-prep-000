@@ -1,5 +1,5 @@
 var recipes = {
-  flour: '2 cups'
+  prop: '1'
 };
 
 function updateObjectWithKeyAndValue(object, key, value){
